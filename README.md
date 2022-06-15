@@ -7,7 +7,7 @@
  <h2>
   Formation
  </h2>
- <img scr=https://www.google.fr/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fae%2F4e%2F06%2Fae4e0637f7c81249e1b1d52746e0d260.png&imgrefurl=https%3A%2F%2Fwww.pinterest.fr%2Fpin%2F459507968231211407%2F&tbnid=xEhVKaS-quyeMM&vet=12ahUKEwiuv7XaoK_4AhVGQ_EDHZq4Ab0QMygCegUIARCFAQ..i&docid=WkE3OicTQ4UI7M&w=1200&h=600&q=O%27clock%20%C3%A9cole%20.png&ved=2ahUKEwiuv7XaoK_4AhVGQ_EDHZq4Ab0QMygCegUIARCFAQ"/>
+ <img scr=https://www.google.fr/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fae%2F4e%2F06%2Fae4e0637f7c81249e1b1d52746e0d260.png&imgrefurl=https%3A%2F%2Fwww.pinterest.fr%2Fpin%2F459507968231211407%2F&tbnid=xEhVKaS-Q"/>
 
 <p align="center">
  Je travaille actuellement avec :
