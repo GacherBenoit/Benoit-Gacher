@@ -6,6 +6,9 @@
  <a href="https://github.com/GacherBenoit/">
 <img src="https://img.shields.io/badge/Github--lightgrey?style=social&logo=Github">
 </a>
+  <a href="benoitgacher@gmail.com">
+<img src="https://img.shields.io/badge/Gmail--lightgrey?style=social&logo=Gmail">
+</a>
  <h2 align="center">
  Formation
  </h2>
