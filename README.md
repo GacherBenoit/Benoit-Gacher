@@ -27,8 +27,8 @@ Outils : :
  </p>
 <ul align="center">
   <img src="https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Logo.png"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png"/>
- <img src="https://carlchenet.com/debuter-avec-git-partie-4-les-commits-et-les-branches/"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png"/>
 </ul>
  <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacherBenoit"/>
