@@ -26,8 +26,6 @@
 Outils : :
  </p>
 <ul align="center">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white](https://carlchenet.com/wp-content/uploads/2019/04/git-logo.png"/>
-  <img src="[https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://fr.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png)"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png"/>
 </ul>
  <div align="center">
