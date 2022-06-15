@@ -11,7 +11,7 @@
  <img src="https://lesassistantes.fr/wp-content/uploads/2021/05/Oclock.jpg">
  </div>
 <p align="center">
- Je travaille actuellement avec :
+ Languages / Framework : :
  </p>
 <ul align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -21,6 +21,14 @@
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+</ul>
+ <p align="center">
+Outils : :
+ </p>
+<ul align="center">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white](https://carlchenet.com/wp-content/uploads/2019/04/git-logo.png"/>
+  <img src="[https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://fr.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png)"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png"/>
 </ul>
  <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacherBenoit"/>
