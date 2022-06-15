@@ -4,7 +4,9 @@
 <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=GacherBenoit">
- 
+ <h2>
+  Formation
+ </h2>
 
 <p align="center">
  Je travaille actuellement avec :
