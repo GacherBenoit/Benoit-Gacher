@@ -26,12 +26,12 @@
 Outils : 
  </p>
 <ul align="center">
-  <img width="30px" src="https://freelance-france.com/wp-content/uploads/2021/10/Image1-1.png"/>
-  <img width="30px" src="https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Logo.png"/>
-  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
-  <img width="30px" src="https://git.kosmos.fr/projects/PAC/avatar.png?s=256&v=1639585673838"/>
-  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"/>
-  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png"/>
+  <img width="40px" src="https://freelance-france.com/wp-content/uploads/2021/10/Image1-1.png"/>
+  <img width="40px" src="https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Logo.png"/>
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
+  <img width="40px" src="https://git.kosmos.fr/projects/PAC/avatar.png?s=256&v=1639585673838"/>
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"/>
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png"/>
 </ul>
  <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacherBenoit"/>
