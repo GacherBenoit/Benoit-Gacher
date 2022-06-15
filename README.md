@@ -26,7 +26,7 @@
 Outils : 
  </p>
 <ul align="center">
-  <img width="60px" src="https://freelance-france.com/wp-content/uploads/2021/10/Image1-1.png"/>
+  <img width="80px" src="https://freelance-france.com/wp-content/uploads/2021/10/Image1-1.png"/>
   <img width="60px" src="https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Logo.png"/>
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
   <img width="40px" src="https://git.kosmos.fr/projects/PAC/avatar.png?s=256&v=1639585673838"/>
