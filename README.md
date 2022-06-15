@@ -29,10 +29,10 @@ PS: Ne lance pas de shurikens sur son lieux de travail.
  </h2>
   <div margin-left="auto">
   <a href="https://oclock.io/formations/developpeur-web#programme">
- <img width="500px"height="600px" src="https://lesassistantes.fr/wp-content/uploads/2021/05/Oclock.jpg">
+ <img width="500px"height="500px" src="https://lesassistantes.fr/wp-content/uploads/2021/05/Oclock.jpg">
  </a>
  <a href="https://github.com/GacherBenoit/O-Dungeons-front">
- <img width="400px" height="600px" src="https://user-images.githubusercontent.com/94860607/173822163-39474468-af0d-4001-9ace-860410f80ecb.png">
+ <img width="400px" height="500px" src="https://user-images.githubusercontent.com/94860607/173822163-39474468-af0d-4001-9ace-860410f80ecb.png">
  </a>
  </div> 
  <h3 align="center">
