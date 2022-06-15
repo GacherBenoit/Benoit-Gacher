@@ -42,7 +42,7 @@ Outils :
  <h3 align="center">
   Statistiques
  </h3>
- <div display="flex" flex="space-between">
+ <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacherBenoit"/>
  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GacherBenoit" />
  </div>
