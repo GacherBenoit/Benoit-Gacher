@@ -39,10 +39,10 @@ Outils :
   <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png"/>
   <img width="70px" src="https://i0.wp.com/outils-visuels.fr/wp-content/uploads/2020/08/Whimsical-logo.png?fit=374%2C94&ssl=1"/>
 </ul>
- <h3>
+ <h3 align="center">
   Statistiques
  </h3>
- <div display="flex">
+ <div display="flex" flex="space-between">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacherBenoit"/>
  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GacherBenoit" />
  </div>
