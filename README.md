@@ -7,7 +7,7 @@
  <h2>
   Formation
  </h2>
- <img scr=https://www.google.fr/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fae%2F4e%2F06%2Fae4e0637f7c81249e1b1d52746e0d260.png&imgrefurl=https%3A%2F%2Fwww.pinterest.fr%2Fpin%2F459507968231211407%2F&tbnid=xEhVKaS-Q"/>
+ <img scr="https://www.pinterest.fr/pin/459507968231211407/"/>
 
 <p align="center">
  Je travaille actuellement avec :
