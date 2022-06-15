@@ -44,8 +44,6 @@ Outils :
  </h3>
  <div display="flex">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacherBenoit"/>
- </div>
- <div align="center">
  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GacherBenoit" />
  </div>
  </html>
