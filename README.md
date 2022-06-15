@@ -11,7 +11,7 @@
  <img src="https://lesassistantes.fr/wp-content/uploads/2021/05/Oclock.jpg">
  </div>
 <p align="center">
- Languages / Framework : :
+ Languages / Framework :
  </p>
 <ul align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </ul>
  <p align="center">
-Outils : :
+Outils : 
  </p>
 <ul align="center">
   <img src="https://freelance-france.com/wp-content/uploads/2021/10/Image1-1.png"/>
