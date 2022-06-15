@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/gacher-benoit-b45a361a4/">
 <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
 </a>
-<img src="https://github-readme-stats.vercel.app/api?username=GacherBenoit">
  <h2 align="center">
  Formation
  </h2>
