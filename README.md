@@ -1,15 +1,15 @@
 <!DOCTYPEhtml>
 <html>
- <h1>
-  Présentation
- <h1>
+<h2>
+Présentation
+<h1>
  <p>
 Après de nombreuses années comme coloriste dans le secteur de l'impression j'ai commencé aujourd'hui une reconversion dans le développement Web auprès de l'école       O'clock.
 J'ai choisi cette voie car l'aspect créatif, l'apprentissage au quotidien, le travail en équipe, et le transfert de savoir font partie de mon Nindô.
 Je cherche aujourd'hui un Sensei ( une entreprise ? ) auprès duquel je pourrais mettre mes talents à son  service et aiguiser mes compétences.
 
 PS: Ne lance pas de shuriken sur son lieux de travail. 
- </p>
+</p>
 
 <a href="https://www.linkedin.com/in/gacher-benoit-b45a361a4/">
 <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
