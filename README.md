@@ -35,6 +35,8 @@ Outils :
 </ul>
  <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacherBenoit"/>
-  <img height="110px" src="https://github-readme-stats.vercel.app/api?username=GacherBenoit" />
+ </div>
+ <div align="center">
+ <img height="110px" src="https://github-readme-stats.vercel.app/api?username=GacherBenoit" />
  </div>
  </html>
