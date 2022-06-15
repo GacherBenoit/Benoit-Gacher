@@ -7,8 +7,9 @@
  <h2>
  Formation
  </h2>
+ <div align="center">
  <img src="https://lesassistantes.fr/wp-content/uploads/2021/05/Oclock.jpg">
-
+ </div>
 <p align="center">
  Je travaille actuellement avec :
  </p>
