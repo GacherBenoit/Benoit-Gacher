@@ -7,7 +7,7 @@
  <h2>
   Formation
  </h2>
- <img scr=["https://i.pinimg.com/564x/ae/4e/06/ae4e0637f7c81249e1b1d52746e0d260.jp](https://media.cdn.teamtailor.com/images/s3/teamtailor-production/logotype-v3/image_uploads/8fb919f4-01d0-480b-b079-83d3e15f2f42/original.png)g">
+ <img scr="https://i.pinimg.com/564x/ae/4e/06/ae4e0637f7c81249e1b1d52746e0d260.jp](https://media.cdn.teamtailor.com/images/s3/teamtailor-production/logotype-v3/image_uploads/8fb919f4-01d0-480b-b079-83d3e15f2f42/original.png">
 
 <p align="center">
  Je travaille actuellement avec :
