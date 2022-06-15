@@ -12,7 +12,7 @@
   Projet réalisé
   </h3>
   <a href="https://github.com/GacherBenoit/O-Dungeons-front">
-  <img src="https://user-images.githubusercontent.com/94860607/173822163-39474468-af0d-4001-9ace-860410f80ecb.png">
+  <img width="100px" src="https://user-images.githubusercontent.com/94860607/173822163-39474468-af0d-4001-9ace-860410f80ecb.png">
   </a>
    </div>
  <p align="center">
