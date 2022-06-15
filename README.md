@@ -26,7 +26,7 @@
 Outils : :
  </p>
 <ul align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png](https://carlchenet.com/wp-content/uploads/2019/04/git-logo.png)"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png](https://carlchenet.com/wp-content/uploads/2019/04/git-logo.png"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png"/>
 </ul>
  <div align="center">
