@@ -43,7 +43,7 @@ Outils :
   Statistiques
  </h3>
  <div margin-left="auto">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacherBenoit"/>
+ <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacherBenoit"/>
  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GacherBenoit" />
  </div>
  </html>
