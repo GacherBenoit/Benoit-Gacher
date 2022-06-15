@@ -28,7 +28,7 @@ Outils : :
 <ul align="center">
   <img src="https://camo.githubusercontent.com/91c62fdfbe996fc6b7353aad127b87f8fdfe3e74b1dc5a68d657cdb62a6ea331/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3338302f312a4f764d736d517330527a735f53637569547375576a772e706e67"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/1200px-Yarn-logo-kitten.svg.png"/>
- <img src="https://fr.wizcase.com/download/github/"/>
+ <img src="https://fr.wizcase.com/download/github"/>
 </ul>
  <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacherBenoit"/>
