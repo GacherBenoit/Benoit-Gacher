@@ -7,7 +7,7 @@
  
 
 <p align="center">
- Je travaille actuelle avec :
+ Je travaille actuellement avec :
  </p>
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
