@@ -1,43 +1,43 @@
 <!DOCTYPEhtml>
 <html>
-<h2>
+<h1 align="center">
 Présentation
 </h1>
 <p>
 Après de nombreuses années comme coloriste dans le secteur de l'impression j'ai commencé aujourd'hui une reconversion dans le développement Web auprès de l'école       O'clock.
 
-J'ai choisi cette voie car l'aspect créatif, l'apprentissage au quotidien, le travail en équipe, et le transfert de savoir qui font partie de mon Nindô*.
+J'ai choisi cette voie car l'aspect créatif, l'apprentissage au quotidien, le travail en équipe, et le transfert de savoir qui partie de mon Nindô*.
 
-Je cherche aujourd'hui un Sensei (ou une entreprise ? :smile: )auprès duquel je pourrais mettre mes talents à son  service et aiguiser mes compétences.
+Je cherche aujourd'hui un Sensei (ou une entreprise ? :smile: ) auprès duquel je pourrais mettre mes talents à contribution et aiguiser mes compétences.
 
 *Nindô (忍道, littéralement : Voie du Ninja) est un code de vie que chaque shinobi s'impose et qui varie en fonction de sa personnalité, ses expériences, ses ambitions, ses croyances ou encore ses rêves. 
 
 PS: Ne lance pas de shurikens sur son lieux de travail. 
+ 
 </p>
 <a href="https://www.linkedin.com/in/gacher-benoit-b45a361a4/">
 <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
 </a>
  <a href="https://github.com/GacherBenoit/">
 <img src="https://img.shields.io/badge/Github--lightgrey?style=social&logo=Github">
-</a>
-  <a href=mailto:"benoitgacher@gmail.com">
+ </a>
+ <a href=mailto:"benoitgacher@gmail.com">
 <img src="https://img.shields.io/badge/Gmail--lightgrey?style=social&logo=Gmail">
 </a>
  <h2 align="center">
- Formation
+ Formation / Projet de fin de formation
  </h2>
- <div align="center">
+  <div margin-left="auto">
+  <a href="https://oclock.io/formations/developpeur-web#programme">
  <img src="https://lesassistantes.fr/wp-content/uploads/2021/05/Oclock.jpg">
-  <h3>
-  Projet réalisé
-  </h3>
-  <a href="https://github.com/GacherBenoit/O-Dungeons-front">
-  <img width="300px" src="https://user-images.githubusercontent.com/94860607/173822163-39474468-af0d-4001-9ace-860410f80ecb.png">
-  </a>
-   </div>
- <p align="center">
+ </a>
+ <a href="https://github.com/GacherBenoit/O-Dungeons-front">
+ <img width="400px" src="https://user-images.githubusercontent.com/94860607/173822163-39474468-af0d-4001-9ace-860410f80ecb.png">
+ </a>
+ </div> 
+ <h3 align="center">
  Languages / Framework :
- </p>
+ </h3>
  <ul align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -47,9 +47,9 @@ PS: Ne lance pas de shurikens sur son lieux de travail.
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </ul>
- <p align="center">
+ <h3 align="center">
 Outils : 
- </p>
+ </h3>
 <ul align="center">
   <img width="70px" src="https://freelance-france.com/wp-content/uploads/2021/10/Image1-1.png"/>
   <img width="60px" src="https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Logo.png"/>
