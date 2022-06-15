@@ -1,14 +1,17 @@
 <!DOCTYPEhtml>
 <html>
-<div fontsize="15px"
 <h2>
 Présentation
-<h1>
- <p>
+</h1>
+<p>
 Après de nombreuses années comme coloriste dans le secteur de l'impression j'ai commencé aujourd'hui une reconversion dans le développement Web auprès de l'école       O'clock.
-J'ai choisi cette voie car l'aspect créatif, l'apprentissage au quotidien, le travail en équipe, et le transfert de savoir font partie de mon Nindô.
-Je cherche aujourd'hui un Sensei ( une entreprise ? ) auprès duquel je pourrais mettre mes talents à son  service et aiguiser mes compétences.
-<br>
+
+J'ai choisi cette voie car l'aspect créatif, l'apprentissage au quotidien, le travail en équipe, et le transfert de savoir qui font partie de mon Nindô*.
+
+Je cherche aujourd'hui un Sensei (ou une entreprise ? :smile: )auprès duquel je pourrais mettre mes talents à son  service et aiguiser mes compétences.
+
+*Nindô (忍道, littéralement : Voie du Ninja) est un code de vie que chaque shinobi s'impose et qui varie en fonction de sa personnalité, ses expériences, ses ambitions, ses croyances ou encore ses rêves. 
+
 PS: Ne lance pas de shurikens sur son lieux de travail. 
 </p>
 <a href="https://www.linkedin.com/in/gacher-benoit-b45a361a4/">
@@ -63,5 +66,5 @@ Outils :
  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacherBenoit"/>
  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=GacherBenoit" />
  </div>
- </div>
+
 
