@@ -15,6 +15,10 @@ Présentation
  <a href=mailto:"benoitgacher@gmail.com">
 <img src="https://img.shields.io/badge/Gmail--lightgrey?style=social&logo=Gmail">
 </a>
+ <a href="https://github.com/GacherBenoit/CV/blob/main/Developpeur%20Web%20Junior.pdf">
+  <img src="https://img.shields.io/badge/CV--lightgrey?style=social&logo=CV">
+ </a>
+ 
  <p>
 
 Après de nombreuses années comme coloriste dans le secteur de l'impression j'ai commencé aujourd'hui une reconversion dans le développement Web auprès de l'école       O'clock.
