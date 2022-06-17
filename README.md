@@ -1,8 +1,11 @@
 <!DOCTYPEhtml>
 <html>
 <h1 align="center">
-Présentation
+Bonjour et bienvenue !
 </h1>
+<h2 align="center">
+Présentation
+</h2>
 <a href="https://www.linkedin.com/in/gacher-benoit-b45a361a4/">
 <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
 </a>
