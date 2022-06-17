@@ -19,7 +19,7 @@ Bonjour et bienvenue !
 <a href="https://github.com/GacherBenoit/CV/blob/main/Developpeur%20Web%20Junior.pdf">
 <img src="https://img.shields.io/badge/CV--lightgrey?style=social&logo=CV">
 </a>
- </p>                    
+</p>                    
 <h2 align="center">
 Présentation
 </h2>
@@ -37,14 +37,14 @@ PS: Ne lance pas de shurikens sur son lieux de travail.
  <h2 align="center">
  Formation / Projet de fin de formation
  </h2>
-  <div margin-left="auto">
+  <p align="center">
   <a href="https://oclock.io/formations/developpeur-web#programme">
  <img width="400px"height="350px" src="https://lesassistantes.fr/wp-content/uploads/2021/05/Oclock.jpg">
  </a>
  <a href="https://github.com/GacherBenoit/O-Dungeons-front">
  <img width="400px" height="400px" src="https://user-images.githubusercontent.com/94860607/173822163-39474468-af0d-4001-9ace-860410f80ecb.png">
  </a>
- </div> 
+ </p> 
  <h3 align="center">
  Languages / Framework :
  </h3>
