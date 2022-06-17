@@ -3,6 +3,7 @@
 <h1 align="center">
 Bonjour et bienvenue !
 </h1>
+ <img src="https://user-images.githubusercontent.com/94860607/174255387-f9ed7a8d-3c1e-4260-85b0-3c27c74dce95.png" width="200px">   
  <a href="https://www.linkedin.com/in/gacher-benoit-b45a361a4/">
 <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
 </a>
@@ -15,7 +16,7 @@ Bonjour et bienvenue !
  <a href="https://github.com/GacherBenoit/CV/blob/main/Developpeur%20Web%20Junior.pdf">
   <img src="https://img.shields.io/badge/CV--lightgrey?style=social&logo=CV">
  </a>
-<img src="https://user-images.githubusercontent.com/94860607/174255387-f9ed7a8d-3c1e-4260-85b0-3c27c74dce95.png" width="200px">                                 
+                              
  <h2 align="center">
 Présentation
 </h2>
