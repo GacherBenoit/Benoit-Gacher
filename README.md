@@ -1,7 +1,8 @@
 <!DOCTYPEhtml>
 <html>
 <h1 align="center">
-Bonjour et bienvenue !
+Bonjour et bienvenue !!
+<img src="https://user-images.githubusercontent.com/94860607/174255387-f9ed7a8d-3c1e-4260-85b0-3c27c74dce95.png">
 </h1>
 <h2 align="center">
 Présentation
