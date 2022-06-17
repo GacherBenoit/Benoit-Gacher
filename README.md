@@ -3,22 +3,22 @@
 <h1 align="center">
 Bonjour et bienvenue !
 </h1>
- <p align="center">
+<p align="center">
  <img src="https://user-images.githubusercontent.com/94860607/174255387-f9ed7a8d-3c1e-4260-85b0-3c27c74dce95.png" width="200px">   
  <a href="https://www.linkedin.com/in/gacher-benoit-b45a361a4/">
 <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
 </a>
- <a href="https://github.com/GacherBenoit/">
+<a href="https://github.com/GacherBenoit/">
 <img src="https://img.shields.io/badge/Github--lightgrey?style=social&logo=Github">
- </a>
- <a href=mailto:"benoitgacher@gmail.com">
+</a>
+<a href=mailto:"benoitgacher@gmail.com">
 <img src="https://img.shields.io/badge/Gmail--lightgrey?style=social&logo=Gmail">
 </a>
- <a href="https://github.com/GacherBenoit/CV/blob/main/Developpeur%20Web%20Junior.pdf">
-  <img src="https://img.shields.io/badge/CV--lightgrey?style=social&logo=CV">
- </a>
- </p>                          
- <h2 align="center">
+<a href="https://github.com/GacherBenoit/CV/blob/main/Developpeur%20Web%20Junior.pdf">
+<img src="https://img.shields.io/badge/CV--lightgrey?style=social&logo=CV">
+</a>
+</p>                          
+<h2 align="center">
 Présentation
 </h2>
 <p>
