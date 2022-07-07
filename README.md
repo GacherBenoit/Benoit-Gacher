@@ -16,7 +16,7 @@ Bonjour et bienvenue !
 <a href=mailto:"benoitgacher@gmail.com">
 <img src="https://img.shields.io/badge/Gmail--lightgrey?style=social&logo=Gmail">
 </a>
-<a href="https://github.com/GacherBenoit/CV/blob/main/Developpeur%20Web%20Junior.pdf">
+<a href="https://github.com/GacherBenoit/CV/blob/main/Developpeur%20Web.pdf">
 <img src="https://img.shields.io/badge/CV--lightgrey?style=social&logo=CV">
 </a>
 </p>                    
