@@ -4,7 +4,7 @@
 Bonjour et bienvenue !
 </h1>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/94860607/174255387-f9ed7a8d-3c1e-4260-85b0-3c27c74dce95.png" width="200px">   
+ <img src="https://user-images.githubusercontent.com/Photo CV compress.png" width="200px">   
  </p>      
  <p align="center">
  <a href="https://www.linkedin.com/in/gacher-benoit-b45a361a4/">
