@@ -26,13 +26,10 @@ Présentation
 <p>
 Après de nombreuses années comme coloriste dans le secteur de l'impression j'ai commencé aujourd'hui une reconversion dans le développement Web auprès de l'école       O'clock.
 
-J'ai choisi cette voie car l'aspect créatif, l'apprentissage au quotidien, le travail en équipe, et le transfert de savoir font partie de mon Nindô*.
+J'ai choisi cette voie pour l'aspect créatif, l'apprentissage au quotidien, le travail en équipe, et le partage de connaissances qui sont des moteurs essentiels à ma motivation au travail.
 
-Je cherche aujourd'hui un Sensei (ou une entreprise ? :smile: ) auprès duquel je pourrais mettre mes talents à contribution et aiguiser mes compétences.
+Je travaille essentiellement en Javascript sur React pour le coté Front-end.
 
-*Nindô (忍道, littéralement : Voie du Ninja) est un code de vie que chaque shinobi s'impose et qui varie en fonction de sa personnalité, ses expériences, ses ambitions, ses croyances ou encore ses rêves. 
-
-PS: Ne lance pas de shurikens sur son lieux de travail. 
  </p> 
  <h2 align="center">
  Formation / Projet de fin de formation
