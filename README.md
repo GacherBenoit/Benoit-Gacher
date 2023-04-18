@@ -4,7 +4,7 @@
 Bonjour et bienvenue !
 </h1>
 <p align="center">
- <img src="![Photo CV compress](https://user-images.githubusercontent.com/94860607/232764362-14508cb7-2104-4c56-9708-15d9987f31ef.png)
+ <img src="https://user-images.githubusercontent.com/94860607/232764362-14508cb7-2104-4c56-9708-15d9987f31ef.png
 " width="200px">   
  </p>      
  <p align="center">
